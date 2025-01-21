@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm simin tehrani</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-<img align="right" alt="simin" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
+<img align="right" alt="simin" width="300" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simin-tehrani&label=Profile%20views&color=0e75b6&style=flat" alt="simin-tehrani" /> </p>
 
